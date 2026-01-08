@@ -128,7 +128,8 @@ All visual outputs are stored in the `visualizations/` folder.
 - Data Preprocessing Engineer  
 - Data Analyst  
 - Data Visualization Analyst  
-- Quality Assurance Analyst  
+- Quality Assurance Analyst
+- Ethics & Compliance Analyst 
 - Technical Documentation Specialist  
 - Project Coordinator  
 
@@ -189,4 +190,5 @@ python src/data_cleaner.py
 4. Analyze the data:
 
 python src/analyzer.py
+
 
