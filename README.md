@@ -130,7 +130,8 @@ All visual outputs are stored in the `visualizations/` folder.
 - Data Visualization Analyst  
 - Quality Assurance Analyst
 - Ethics & Compliance Analyst 
-- Technical Documentation Specialist  
+- Technical Documentation Specialist
+- Presentation & Communication Lead
 - Project Coordinator  
 
 Each role contributed to a specific stage of the project lifecycle.
@@ -191,6 +192,7 @@ This project demonstrates a complete **end-to-end data pipeline**, from raw data
 4. Analyze the data:
 
     python src/analyzer.py
+
 
 
 
