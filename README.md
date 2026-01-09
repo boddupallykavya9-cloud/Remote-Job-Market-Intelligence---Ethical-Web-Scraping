@@ -165,7 +165,9 @@ The Quality Assurance phase ensured the correctness, stability, and reproducibil
 - Ensured consistent outputs across repeated executions.
 
 **QA Status:** All pipeline stages validated and approved for final use.
+
 ---
+
 ## ✅ Conclusion
 
 This project demonstrates a complete **end-to-end data pipeline**, from raw data collection to meaningful insights and visual storytelling. It follows best practices in data handling, collaboration, and documentation.
@@ -190,5 +192,6 @@ python src/data_cleaner.py
 4. Analyze the data:
 
 python src/analyzer.py
+
 
 
