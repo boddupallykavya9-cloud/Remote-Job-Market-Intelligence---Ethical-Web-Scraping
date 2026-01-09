@@ -177,21 +177,21 @@ This project demonstrates a complete **end-to-end data pipeline**, from raw data
 ## 📌 How to Run the Project
 
 1. Install required libraries:
-
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 2. Run scraping script (optional if raw data exists):
-python src/scraper.py
+    python src/scraper.py
 
 
 3. Clean the data:
-python src/data_cleaner.py
+    python src/data_cleaner.py
 
 
 4. Analyze the data:
 
-python src/analyzer.py
+    python src/analyzer.py
+
 
 
 
